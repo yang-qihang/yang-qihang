@@ -1,10 +1,5 @@
-# 关于我
-- 学生
-- 曾经是一位OIer
-- 软件开发者
-- 爱好一切富有创造性的事物
+Hi, my name is Yang Qihang(杨启航). I am currently a CS student at Beijing University of Posts and Telecommunications (BUPT), China. I am passionate to explore new technologies.
 
-# 联系方式
-- Email：**（联系时请注明来源为Github）**
-  - `yangqihang2020@outlook.com`
-  - `2956733205@qq.com`
+In the future, I hope to have the chance to study and work abroad and experience different cultures.
+
+Feel free to contact me via email `yangqihang0919@gmail.com`.
