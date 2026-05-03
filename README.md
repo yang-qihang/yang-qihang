@@ -1,4 +1,4 @@
-Hi, my name is Yang Qihang(杨启航). I am currently a CS student at Beijing University of Posts and Telecommunications (BUPT), China. I am passionate to explore new technologies.
+Hi, my name is Yang Qihang(杨启航). I am currently a CS student at Beijing University of Posts and Telecommunications (BUPT), China. I am passionate about exploring new technologies.
 
 In the future, I hope to have the chance to study and work abroad and experience different cultures.
 
